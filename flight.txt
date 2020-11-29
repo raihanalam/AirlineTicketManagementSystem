@@ -1,0 +1,14 @@
+1	FL6051		Dhaka		Chittagong		5000		10000		15000		10.00 AM	Novo Air		
+2	FL6052		Dhaka		Kolkata 		10000		15000		20000		12.00 PM	Air India		
+3	FL6053		Dhaka		Mumbai  		15000		20000		25000		02.00 PM	Novo Air		
+4	FL6054		Dhaka		Beijing 		20000		25000		30000		03.30 PM	Biman Bangladesh Airlines		
+5	FL6055		Dhaka		Kulalumpur		20000		25000		30000		04.30 PM	Malaysian Airlines		
+6	FL6056		Dhaka		Riyadh  		30000		35000		40000		06.00 PM	Qatar Airways		
+7	FL6057		Dhaka		Qatar   		30000		35000		40000		07.00 PM	Qatar Airways		
+8	FL6058		Dhaka		Dubai   		30000		35000		40000		09.00 PM	Biman Bangladesh Airlines		
+9	FL6059		Dhaka		Singapoor		35000		40000		40000		10.00 PM	Singapoor Airlines	
+10	FL6060		Dhaka		Toranto 		25000		30000		35000		12.00 AM	Fly Emirates		
+11	FL6061		Dhaka		New Yourk		45000		50000		55000		03.00 AM	Fly Emirates	
+12	FL6062		Dhaka		London  		45000		50000		55000		06.00 AM	Fly Emirates
+
+
