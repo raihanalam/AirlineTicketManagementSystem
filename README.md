@@ -1,2 +1,2 @@
-# AirlineTicketManagement
-This is an Airline Ticket Management system with some amazing featurs using C programming. 
+# AirlineTicketManagementBooth
+This is an Airline Ticket Management System Booth with some amazing features using C programming. 
